@@ -1,0 +1,1 @@
+Simple way to view scheduled departures and arrivals of Vienna International Bus Terminal

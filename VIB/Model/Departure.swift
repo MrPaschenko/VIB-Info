@@ -16,7 +16,7 @@ struct Departure: Codable {
     let checkIn: String
     
     enum CodingKeys: String, CodingKey {
-        case id
+        case id = "id"
         case day = "tagbez"
         case time = "abfahrtGepl"
         case status = "abfahrt"
@@ -30,4 +30,8 @@ struct Departure: Codable {
         case via = "via"
         case checkIn = "CheckIn"
     }
+}
+
+struct DeparturesResponseData: Codable {
+    let result: [Departure]
 }

@@ -1,10 +1,3 @@
-//
-//  VIB_UITestsLaunchTests.swift
-//  VIB UITests
-//
-//  Created by Dmytro Pashchenko on 13.10.2024.
-//
-
 import XCTest
 
 final class VIB_UITestsLaunchTests: XCTestCase {

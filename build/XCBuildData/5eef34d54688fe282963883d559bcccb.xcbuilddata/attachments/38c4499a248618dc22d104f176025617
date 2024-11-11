@@ -1,0 +1,55 @@
+{
+  "" : {
+    "const-values" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master.swiftconstvalues",
+    "dependencies" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master.d",
+    "diagnostics" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master.dia",
+    "emit-module-dependencies" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/VIB-master.swiftdeps"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/AppDelegate.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Controller/ArrivalsTableViewController.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsTableViewController.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsTableViewController.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsTableViewController.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Controller/DeparturesTableViewController.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesTableViewController.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesTableViewController.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesTableViewController.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Model/Arrival.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Arrival.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Arrival.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Arrival.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Model/ArrivalsManager.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsManager.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsManager.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/ArrivalsManager.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Model/Departure.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Departure.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Departure.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/Departure.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/Model/DeparturesManager.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesManager.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesManager.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/DeparturesManager.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/VIB/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mrpaschenko/Developer/VIB/build/VIB.build/Release-iphoneos/VIB.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
