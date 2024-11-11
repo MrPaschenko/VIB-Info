@@ -1,0 +1,66 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "cul-JU-Zr5.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search\"; ObjectID = \"cul-JU-Zr5\";",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "fEr-QM-6XY.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Arrivals\"; ObjectID = \"fEr-QM-6XY\";",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrivals"
+          }
+        }
+      }
+    },
+    "kZP-Rb-NzU.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Departures\"; ObjectID = \"kZP-Rb-NzU\";",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Departures"
+          }
+        }
+      }
+    },
+    "QOv-g9-F8K.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Arrivals\"; ObjectID = \"QOv-g9-F8K\";",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrivals"
+          }
+        }
+      }
+    },
+    "Rni-lG-Osv.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Departures\"; ObjectID = \"Rni-lG-Osv\";",
+      "extractionState" : "migrated",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Departures"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
