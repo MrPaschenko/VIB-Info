@@ -1,9 +1,15 @@
 devices([
-  "iPhone 16 Pro Max"
+  "iPad Pro 13-inch (M4)"
 ])
 
 languages([
-  "nl-NL"
+  "cs",
+  "de-DE",
+  "en-US",
+  "fr-FR",
+  "hr",
+  "hu",
+  "it"
 ])
 
 scheme("VIB UITests")
