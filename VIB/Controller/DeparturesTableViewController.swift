@@ -111,7 +111,7 @@ class DeparturesTableViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let departure = departures[indexPath.row]
+        let departure = filteredDepartures[indexPath.row]
         
         var detailsMessage = ""
         

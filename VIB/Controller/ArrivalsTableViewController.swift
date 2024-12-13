@@ -92,7 +92,7 @@ class ArrivalsTableViewController: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        let arrival = arrivals[indexPath.row]
+        let arrival = filteredArrivals[indexPath.row]
         
         var detailsMessage = ""
         
