@@ -1,21 +1,30 @@
-# Privacy policy
+# Privacy Policy for "VIB Info"
 
-1. Overview
+## Introduction
 
-“VIB Info” is an iOS application designed to display bus departure and arrival schedules. We are committed to protecting user privacy and ensuring a simple, informative experience.
+Welcome to the "VIB Info" application (the "App"), developed by Dmytro Pashchenko ("we," "our," or "us"). Your privacy is important to us, and we are committed to protecting it.
 
-2. Data Collection
+This Privacy Policy explains how we handle your information when you use our App.
 
-VIB Info does not collect, store, or process any personal information. Users can freely access all information within the app without needing to create an account or log in.
+## Information Collection and Use
 
-3. Third-Party Data and Services
+### No Data Collection
 
-VIB Info does not utilize third-party services or collect data from external sources. All displayed information is directly accessible through the app interface without any data sharing or tracking.
+We do not collect, store, or process any personal information or data when you use this App. The App is designed to function entirely on your device without requiring any data transmission to external servers or databases.
 
-4. Changes to this Privacy Policy
+### No Third-Party Services
 
-VIB Info may update this privacy policy periodically. Changes will be posted within the app. Users are encouraged to review the policy from time to time to stay informed.
+The App does not integrate with or rely on any third-party services that may collect data.
 
-5. Contact Us
+## Changes to This Privacy Policy
 
-If you have any questions regarding this privacy policy, please contact us at paschenkod2@gmail.com.
+We may update this Privacy Policy from time to time. If we make significant changes, we will notify you by updating the effective date at the top of this page. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy or your privacy while using the App, please contact us at:
+
+Dmytro Pashchenko  
+Email: paschenkod2@gmail.com
+
+Thank you for using "VIB Info".
